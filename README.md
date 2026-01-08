@@ -7,12 +7,16 @@ Eu sou o Tiago Felix, sou programador Front End, atualmente estou criando projet
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
  conect with me:
-
+<p>
  <a href="https://www.instagram.com/tiago_rodrigo5k/">
  <img align="left" alt="icone do instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
+ </p>
+<br>
 
- [![tiagorodrigo2308](https://github-profile-trophy.vercel.app/?username=tiagorodrigo)](https://github.com/ryo-ma/github-profile-trophy)
+ [![tiagorodrigo2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorodrigo2308)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodrigo2308)](https://github.com/anuraghazra/github-readme-stats)
  
    
  
