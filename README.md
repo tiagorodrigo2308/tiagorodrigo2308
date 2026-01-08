@@ -14,7 +14,6 @@ Eu sou o Tiago Felix, sou programador Front End, atualmente estou criando projet
  </p>
 <br>
 
-[![tiagorodrigo2308 GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagorodrigo2308)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
